@@ -5,7 +5,7 @@ In the Tech Solutions and EdTech sectors, customer retention is the primary driv
 
 ## 🛠️ The Data Stack
 * **Data Generation:** Python (NumPy/Pandas) to create a robust dataset with realistic business logic (Engagement vs. Retention).
-* **Data Extraction & Manipulation:** **SQL (SQLite)** for revenue aggregation, multi-dimensional grouping, and behavioral segmentation.
+* **Data Extraction & Manipulation:** **SQL (Oracle)** for revenue aggregation, multi-dimensional grouping, and behavioral segmentation.
 * **Predictive Modeling:** **Scikit-Learn** (Logistic Regression) to classify "at-risk" users based on engagement metrics.
 * **Business Intelligence:** **Power BI** for high-fidelity dashboarding, DAX measures, and executive reporting.
 
